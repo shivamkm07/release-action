@@ -17,8 +17,8 @@ jobs:
       with:
         artifacts: ""
         bodyFile: ""
-        tag: "test"
+        tag: "test2"
         token: ${{ secrets.GITHUB_TOKEN }}
         allowUpdates: true
-        
+
 
